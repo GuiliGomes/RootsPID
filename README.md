@@ -1,7 +1,10 @@
 # RootsPID
 
 A basic implementation of a numeric PID controller
-Author:	Guilherme Gomes & Lorenzo Giordano
+
+Author:	Guilherme Gomes (guiligomes@gmail.com)
+        Lorenzo Giordano (peidaloso@gmail.com)
+        
 Date:	07/Oct/2016
 
 Description:
